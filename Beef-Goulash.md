@@ -19,15 +19,20 @@
 - 2 boxes Spaetzle (9 oz each, dry weight)
 
 ## Cooking Steps
-Set crock pot to low, or stash prepared items in fridge.
+Set crock pot to low, or stash prepared items in fridge
+Add 2 cups beef stock to pot
 
 #### Beef
-- Cut stew meat into 0.5" to 1.25" cubes, brown in pan.
-- Cut pot roast into 0.5" to 1.25" cubes, remove hard fat, brown in pan.
-- Add meat to crock pot or move to fridge.
+- Cut stew meat into 0.5" to 1.25" cubes, brown in pan
+- Cut pot roast into 0.5" to 1.25" cubes, remove hard fat, brown in pan
+- Add meat to crock pot or move to fridge
 
-#### Vegetables
+#### Vegetables (Onions / Garlic)
 - Dice onions, sweat onions in butter
 - Dice 4-40 (depending on preference) cloves of garlic, add to onions
 - Cook until onions are translucent
-- Add to crock pot or move to fridge.
+- Add to crock pot or move to fridge
+
+#### Vegetables (Carrots / Celery)
+- Thinly chop carrota and celery
+- Add to crock pot or move to fridge
