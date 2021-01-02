@@ -9,6 +9,7 @@
 - 1 head of garlic
 - Carrots
 - Celery
+- 1 lbs.. Yukon Gold potatoes
 - 4 Tbsp tomato paste
 - 4 Tsp Hungarian paprika
 - 1 Tbsp thyme
@@ -16,11 +17,14 @@
 - Salt
 - Pepper
 - Beef Bouillon Cube or equivalent
+- Cornstarch
+- Arrowroot
 - 2 boxes Spaetzle (9 oz each, dry weight)
 
 ## Cooking Steps
 Set crock pot to low, or stash prepared items in fridge
 Add 2 cups beef stock to pot
+
 
 #### Beef
 - Cut stew meat into 0.5" to 1.25" cubes, brown in pan
@@ -34,5 +38,13 @@ Add 2 cups beef stock to pot
 - Add to crock pot or move to fridge
 
 #### Vegetables (Carrots / Celery)
-- Thinly chop carrota and celery
+- Thinly chop carrots and celery
 - Add to crock pot or move to fridge
+
+#### Vegetables (Potatoes)
+- Cut into fourths, set aside to add later
+
+#### Cooking 
+- Add tomato paste and spices to pot
+- Add wine to pot
+- Cook on low for 3-6 hours
