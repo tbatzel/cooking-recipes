@@ -18,6 +18,7 @@
 - 2 boxes Spaetzle (9 oz each, dry weight)
 
 ## Cooking Steps
+#### Beef
 - Cut stew meat into 0.5" to 1.25" cubes, brown in pan.
 - Cut pot roast into 0.5" to 1.25" cubes, remove hard fat, brown in pan.
 - Add meat to crock pot on low or move to fridge.
