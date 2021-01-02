@@ -49,10 +49,10 @@ Add 2 cups beef stock to pot
 - Add wine to pot
 - Add beef stock to cover
 - Cook on low for 3-6 hours
-
+###### After 3-6 hours
 - Add potatoes
 - Cook 1 hour
-
+###### After 1 hour
 - Check flavor, add Bouillon if needed
 - Mix cornstarch & arrowroot with cold water, then add to pot
 - Cook 1 hour, needs to boil for cornstarch
