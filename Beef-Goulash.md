@@ -6,6 +6,7 @@
 - 2 to 4 cups beef stock or bone broth
 - 1.33 cups red wine
 - 1 large yellow sweet onion
+- 1 head of garlic
 - Carrots
 - Celery
 - 4 Tbsp tomato paste
