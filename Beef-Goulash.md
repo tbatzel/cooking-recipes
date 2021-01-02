@@ -57,5 +57,5 @@ Add 2 cups beef stock to pot
 - Mix cornstarch & arrowroot with cold water, then add to pot
 - Cook 1 hour, needs to boil for cornstarch
 
-### Spaetzle
+###### Spaetzle
 - Cook Spaetzle per box instructions
