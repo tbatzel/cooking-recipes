@@ -13,3 +13,13 @@
 - Pepper
 - Cornstarch
 - Sugar
+
+
+## Cooking Steps
+- Brown meat, remove oil
+- Dice and saute onions
+- Combine meat, onions, and diced garlic
+- Add seasoning
+- Add tomato
+
+Bring to boil, reduce to low, simmer 2 hours, add cornstarch, hit with stick blender, check flavor, simmer another half hour.
