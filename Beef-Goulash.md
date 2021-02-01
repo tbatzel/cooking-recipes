@@ -19,7 +19,8 @@
 - Beef Bouillon Cube or equivalent
 - Cornstarch
 - Arrowroot
-- 2 boxes Spaetzle (9 oz each, dry weight)
+- Fresh Spaetzle (about 27 oz)
+-- Can also use 2 boxes dry Spaetzle (9 oz each, dry weight)
 
 ## Cooking Steps
 Set crock pot to low, or stash prepared items in fridge
