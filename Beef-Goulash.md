@@ -20,7 +20,7 @@
 - Cornstarch
 - Arrowroot
 - Fresh Spaetzle (about 27 oz)
--- Can also use 2 boxes dry Spaetzle (9 oz each, dry weight)
+- - Can also use 2 boxes dry Spaetzle (9 oz each, dry weight)
 
 ## Cooking Steps
 Set crock pot to low, or stash prepared items in fridge
@@ -58,9 +58,9 @@ Add 4 cups beef stock to pot
 
 ## Salt / Sodium Info
 - 2,300 mg sodium added directly
--- 0.25 tsp when browning beef
--- 0.50 tsp when cooking onions
--- 0.25 tsp when adding spices
+- - 0.25 tsp when browning beef
+- - 0.50 tsp when cooking onions
+- - 0.25 tsp when adding spices
 - 600 mg sodium from the unsalted beef stock
 - 700 mg from one bouilliion flavor
 - 700 mg from one bouilliion flavor
