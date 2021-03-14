@@ -56,7 +56,7 @@ Add 4 cups beef stock to pot
 ###### Spaetzle
 - Cook Spaetzle per box instructions
 
-###### Salt / Sodium Info
+## Salt / Sodium Info
 - 2,300 mg sodium added directly
 -- 0.25 tsp when browning beef
 -- 0.50 tsp when cooking onions
