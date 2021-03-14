@@ -1,18 +1,19 @@
 # Beef Goulash
 
 ## Ingredients
-- 1.5 lbs. beef pot roast
-- 1.5 lbs. beef stew meat
-- 4 cups low/no-sodium beef stock or broth
-- 1.33 cups red wine
-- 1.5 large yellow sweet onion
+- 3.3 lbs (1500g) beef ( Half pot roast / Half stew meat)
+- 4 cups no-sodium beef stock or broth
+- 1.33 cups red wine (Cabernet Sauvignon, Tempranillo, Pinot Noir)
+- 2 large yellow sweet onion
 - 1 red onion
 - 1 head of garlic
-- Carrots
+- 0.5 lbs (230g) Carrots
 - 1 can (28 oz) tomatoes, San Marzano Whole Peeled (Cento / Bianco DiNapoli) 
 - 4 Tsp Hungarian paprika
 - 1 Tbsp thyme
 - 1 Tbsp oregano
+- 2 bay leafs
+- 2 Tsp dry granulated garlic (optional)
 - Salt
 - Pepper
 - Beef Bouillon Cube or equivalent
@@ -23,34 +24,46 @@
 
 ## Cooking Steps
 Set crock pot to low, or stash prepared items in fridge
-Add 2 cups beef stock to pot
+Add 4 cups beef stock to pot
 
 
 #### Beef
-- Cut stew meat into 0.5" to 1.25" cubes, brown in pan
-- Cut pot roast into 0.5" to 1.25" cubes, remove hard fat, brown in pan
+- Cut meat into 0.5" to 1.0" cubes, remove hard fat, brown in pan
 - Add meat to crock pot or move to fridge
 
 #### Vegetables (Onions / Garlic)
-- Dice onions, sweat onions in butter
+- Dice onions, sweat onions in butter/oil
 - Dice 4-40 (depending on preference) cloves of garlic, add to onions
 - Cook until onions are translucent
 - Add to crock pot or move to fridge
 
 #### Vegetables (Carrots)
-- Thinly chop carrots
+- Slice carrots about 3/4" thick
 - Add to crock pot or move to fridge
 
-#### Cooking 
-- Add tomato and spices to pot
+#### Cooking
+- Add can of tomatoes to pot, optionally drain some juice to lower tomatoe flavor.
+- Add spices to pot
 - Add wine to pot
-- Add beef stock to cover
+- Add additional beef stock to cover, if required.
 - Cook on low for 4-7 hours
 
 ###### After 4-7 hours
-- Check flavor, add Bouillon if needed
-- Mix cornstarch & arrowroot with cold water, then add to pot
+- Check flavor, add 1-3 Bouillon if needed
+- Mix cornstarch & arrowroot with cold water, then add to pot (2 tbls each)
 - Cook 1 hour, needs to boil for cornstarch
 
 ###### Spaetzle
 - Cook Spaetzle per box instructions
+
+###### Salt / Sodium Info
+- 2,300 mg sodium added directly
+-- 0.25 tsp when browning beef
+-- 0.50 tsp when cooking onions
+-- 0.25 tsp when adding spices
+- 600 mg sodium from the unsalted beef stock
+- 700 mg from one bouilliion flavor
+- 700 mg from one bouilliion flavor
+
+
+
