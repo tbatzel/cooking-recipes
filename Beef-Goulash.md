@@ -5,12 +5,12 @@
 - 1.5 lbs. beef stew meat
 - 2 to 4 cups beef stock or bone broth
 - 1.33 cups red wine
-- 1 large yellow sweet onion
+- 1.5 large yellow sweet onion
+- 1 red onion
 - 1 head of garlic
 - Carrots
-- Celery
-- 1 lbs. Yukon Gold potatoes
 - 4 Tbsp tomato paste
+- 1 can (28 oz) tomatoes, San Marzano Whole Peeled (Cento / Bianco DiNapoli) 
 - 4 Tsp Hungarian paprika
 - 1 Tbsp thyme
 - 1 Tbsp oregano
@@ -38,22 +38,17 @@ Add 2 cups beef stock to pot
 - Cook until onions are translucent
 - Add to crock pot or move to fridge
 
-#### Vegetables (Carrots / Celery)
-- Thinly chop carrots and celery
+#### Vegetables (Carrots)
+- Thinly chop carrots
 - Add to crock pot or move to fridge
-
-#### Vegetables (Potatoes)
-- Cut into fourths, set aside to add later
 
 #### Cooking 
 - Add tomato paste and spices to pot
 - Add wine to pot
 - Add beef stock to cover
-- Cook on low for 3-6 hours
-###### After 3-6 hours
-- Add potatoes
-- Cook 1 hour
-###### After 1 hour
+- Cook on low for 4-7 hours
+
+###### After 4-7 hours
 - Check flavor, add Bouillon if needed
 - Mix cornstarch & arrowroot with cold water, then add to pot
 - Cook 1 hour, needs to boil for cornstarch
