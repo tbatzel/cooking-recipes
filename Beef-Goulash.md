@@ -3,13 +3,12 @@
 ## Ingredients
 - 1.5 lbs. beef pot roast
 - 1.5 lbs. beef stew meat
-- 2 to 4 cups beef stock or bone broth
+- 4 cups low/no-sodium beef stock or broth
 - 1.33 cups red wine
 - 1.5 large yellow sweet onion
 - 1 red onion
 - 1 head of garlic
 - Carrots
-- 4 Tbsp tomato paste
 - 1 can (28 oz) tomatoes, San Marzano Whole Peeled (Cento / Bianco DiNapoli) 
 - 4 Tsp Hungarian paprika
 - 1 Tbsp thyme
@@ -43,7 +42,7 @@ Add 2 cups beef stock to pot
 - Add to crock pot or move to fridge
 
 #### Cooking 
-- Add tomato paste and spices to pot
+- Add tomato and spices to pot
 - Add wine to pot
 - Add beef stock to cover
 - Cook on low for 4-7 hours
