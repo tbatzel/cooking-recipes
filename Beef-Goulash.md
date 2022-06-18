@@ -17,8 +17,7 @@
 - Salt
 - Pepper
 - Beef Bouillon Cube or equivalent
-- Cornstarch
-- Arrowroot
+- Dark Roux (or Cornstarch / Arrowroot)
 - Fresh Spaetzle (about 27 oz)
 - - Can also use 2 boxes dry Spaetzle (9 oz each, dry weight)
 
